@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">firstand</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="to">to</string>
+    <string name="welcome">Welcome</string>
+    <string name="_1_calculator">1.calculator</string>
+    <string name="_2_currency_exchange">2.Currency Exchange</string>
+    <string name="what_do_you_want">What do you want :</string>
+    <string name="application">application</string>
+
+
+</resources>
